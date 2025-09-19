@@ -19,6 +19,8 @@ The hospitality industry faces significant challenges due to booking cancellatio
 7. What is the overall cancellation ratio compared to total bookings?
 ## Dashboard Interaction:
 -<a href="https://github.com/CharuGupta25/Hotel_Booking_Cancellation_Dashboard/blob/main/DA%20Project.xlsx">Dashboard</a>
+## Dashboard:
+<img width="1920" height="778" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/ab2f9853-5bb4-4e5f-a1bf-976797f17068" />
 ## Insights (Findings from Dashboard):
 Total Bookings: 1,19,391
 Total Cancellations: 44,224
@@ -54,8 +56,8 @@ Since Families cancel more often, special family packages with non-refundable be
 Proper inventory management should be introduced to avoid dissatisfaction regarding “desired room not allotted,” which leads to cancellations.
 6. Business Value:
 This analysis helps hotel managers in forecasting demand, improving customer satisfaction, and minimizing revenue loss.
-## Dashboard:
-<img width="1920" height="778" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/ab2f9853-5bb4-4e5f-a1bf-976797f17068" />
+## Conclusion
+This project demonstrates how cancellations significantly affect hotel revenue and occupancy. By analyzing booking data across hotels, months, years, guest types, and room categories, it is evident that certain patterns can be targeted with better strategies. With improved policies, promotional offers, and efficient room management, hotels can reduce cancellations and enhance profitability.
 
 
 
