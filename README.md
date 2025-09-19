@@ -21,25 +21,28 @@ The hospitality industry faces significant challenges due to booking cancellatio
 -<a href="https://github.com/CharuGupta25/Hotel_Booking_Cancellation_Dashboard/blob/main/DA%20Project.xlsx">Dashboard</a>
 ## Dashboard:
 <img width="1920" height="778" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/ab2f9853-5bb4-4e5f-a1bf-976797f17068" />
+
 ## Insights (Findings from Dashboard):
-Total Bookings: 1,19,391
-Total Cancellations: 44,224
-Overall cancellation rate is approximately 37%, which is quite high.
--> Hotel Type:
+-Total Bookings: 1,19,391
+
+-Total Cancellations: 44,224
+
+-Overall cancellation rate is approximately 37%, which is quite high.
+## Hotel Type:
 City Hotels have more bookings compared to Resort Hotels.
 However, City Hotels also face higher cancellation rates.
--> Monthly Trend:
+## Monthly Trend:
 Peak season (July–August) shows the highest number of bookings.
 The same months also record maximum cancellations.
 Off-season months (November–January) have fewer cancellations.
--> Guest Type:
+## Guest Type:
 Couples make the maximum number of bookings.
 Families show a higher cancellation percentage compared to Couples.
 Singles have the least bookings and cancellations.
--> Room Type:
+## Room Type:
 Standard and "desired but not allotted" rooms show the highest cancellation ratio.
 Undefined room type bookings also face significant cancellations.
--> Year-wise Trend:
+## Year-wise Trend:
 Cancellations peaked in 2016.
 Slight improvement is seen in 2017, but the rate still remains high.
 ## Outcomes (Recommendations):
